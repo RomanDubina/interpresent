@@ -1,0 +1,72 @@
+[2021-08-28 12:16:49] Стартовала функция yfym_save_post_product_function! Файл: yml-for-yandex-market.php; Строка: 296
+[2021-08-28 12:16:49] Работает функция yfym_save_post_product_function! Файл: yml-for-yandex-market.php; Строка: 307
+[2021-08-28 12:16:49] FEED № 1; Шаг $i = 1 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:16:49] FEED № 1; Стартовала yfym_unit. $postId = 29681; Файл: offer.php; Строка: 120
+[2021-08-28 12:16:49] FEED № 1; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:16:49] FEED № 1; Стартовала yfym_adv. $postId = 29681; Файл: adv.php; Строка: 4
+[2021-08-28 12:16:49] FEED № 1; У нас обычный товар. Файл: adv.php; Строка: 743
+[2021-08-28 12:16:49] FEED № 1; $yfym_skip_missing_products = on; gettype = string; Файл: adv.php; Строка: 761
+[2021-08-28 12:16:49] FEED № 2; Шаг $i = 2 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:16:49] FEED № 2; Стартовала yfym_unit. $postId = 29681; Файл: offer.php; Строка: 120
+[2021-08-28 12:16:49] FEED № 2; WARNING: Товар с postId = 29681 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:16:49] FEED № 2; WARNING: Товар с postId = 29681 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:16:49] FEED № 2; WARNING: Товар с postId = 29681 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:16:49] FEED № 2; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:16:49] FEED № 2; Товар с postId = 29681 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:16:49] FEED № 3; Шаг $i = 3 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:16:49] FEED № 3; Стартовала yfym_unit. $postId = 29681; Файл: offer.php; Строка: 120
+[2021-08-28 12:16:49] FEED № 3; WARNING: Товар с postId = 29681 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:16:49] FEED № 3; WARNING: Товар с postId = 29681 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:16:49] FEED № 3; WARNING: Товар с postId = 29681 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:16:49] FEED № 3; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:16:49] FEED № 3; Товар с postId = 29681 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:16:49] FEED № 4; Шаг $i = 4 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:16:49] FEED № 4; Стартовала yfym_unit. $postId = 29681; Файл: offer.php; Строка: 120
+[2021-08-28 12:16:49] FEED № 4; WARNING: Товар с postId = 29681 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:16:49] FEED № 4; WARNING: Товар с postId = 29681 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:16:49] FEED № 4; WARNING: Товар с postId = 29681 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:16:49] FEED № 4; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:16:49] FEED № 4; Товар с postId = 29681 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:16:49] FEED № 5; Шаг $i = 5 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:16:49] FEED № 5; Стартовала yfym_unit. $postId = 29681; Файл: offer.php; Строка: 120
+[2021-08-28 12:16:49] FEED № 5; WARNING: Товар с postId = 29681 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:16:49] FEED № 5; WARNING: Товар с postId = 29681 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:16:49] FEED № 5; WARNING: Товар с postId = 29681 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:16:49] FEED № 5; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:16:49] FEED № 5; Товар с postId = 29681 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:18:29] Стартовала функция yfym_save_post_product_function! Файл: yml-for-yandex-market.php; Строка: 296
+[2021-08-28 12:18:29] Работает функция yfym_save_post_product_function! Файл: yml-for-yandex-market.php; Строка: 307
+[2021-08-28 12:18:29] FEED № 1; Шаг $i = 1 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:18:29] FEED № 1; Стартовала yfym_unit. $postId = 449; Файл: offer.php; Строка: 120
+[2021-08-28 12:18:29] FEED № 1; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:18:29] FEED № 1; Стартовала yfym_adv. $postId = 449; Файл: adv.php; Строка: 4
+[2021-08-28 12:18:29] FEED № 1; У нас обычный товар. Файл: adv.php; Строка: 743
+[2021-08-28 12:18:29] FEED № 1; $yfym_skip_missing_products = on; gettype = string; Файл: adv.php; Строка: 761
+[2021-08-28 12:18:29] FEED № 2; Шаг $i = 2 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:18:29] FEED № 2; Стартовала yfym_unit. $postId = 449; Файл: offer.php; Строка: 120
+[2021-08-28 12:18:29] FEED № 2; WARNING: Товар с postId = 449 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:18:29] FEED № 2; WARNING: Товар с postId = 449 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:18:29] FEED № 2; WARNING: Товар с postId = 449 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:18:29] FEED № 2; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:18:29] FEED № 2; Товар с postId = 449 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:18:29] FEED № 3; Шаг $i = 3 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:18:29] FEED № 3; Стартовала yfym_unit. $postId = 449; Файл: offer.php; Строка: 120
+[2021-08-28 12:18:29] FEED № 3; WARNING: Товар с postId = 449 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:18:29] FEED № 3; WARNING: Товар с postId = 449 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:18:29] FEED № 3; WARNING: Товар с postId = 449 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:18:29] FEED № 3; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:18:29] FEED № 3; Товар с postId = 449 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:18:29] FEED № 4; Шаг $i = 4 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:18:29] FEED № 4; Стартовала yfym_unit. $postId = 449; Файл: offer.php; Строка: 120
+[2021-08-28 12:18:29] FEED № 4; WARNING: Товар с postId = 449 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:18:29] FEED № 4; WARNING: Товар с postId = 449 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:18:29] FEED № 4; WARNING: Товар с postId = 449 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:18:29] FEED № 4; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:18:29] FEED № 4; Товар с postId = 449 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378
+[2021-08-28 12:18:29] FEED № 5; Шаг $i = 5 цикла по формированию кэша файлов; Файл: yml-for-yandex-market.php; Строка: 374
+[2021-08-28 12:18:29] FEED № 5; Стартовала yfym_unit. $postId = 449; Файл: offer.php; Строка: 120
+[2021-08-28 12:18:29] FEED № 5; WARNING: Товар с postId = 449 вернул пустой $result_yml_store; Файл: old.php; Строка: 167
+[2021-08-28 12:18:29] FEED № 5; WARNING: Товар с postId = 449 вернул пустой $delivery; Файл: old.php; Строка: 180
+[2021-08-28 12:18:29] FEED № 5; WARNING: Товар с postId = 449 вернул пустой $pickup; Файл: old.php; Строка: 201
+[2021-08-28 12:18:29] FEED № 5; 1; Файл: offer.php; Строка: 363
+[2021-08-28 12:18:29] FEED № 5; Товар с postId = 449 пропущен т.к $res_yml = null или ""; Файл: offer.php; Строка: 378

@@ -1,0 +1,88 @@
+# Разрешаем всем поисковикам посещать ресурс
+
+User-Agent: *
+Allow: /
+
+# Запрещаем роботам Яндекса посещать определенные страницы
+
+User-agent: Yandex
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /search
+Disallow: /korzina
+Disallow: /checkout
+Disallow: *?*
+Disallow: *?s=
+Disallow: /?
+Disallow: */attachment/*
+Disallow: */print/
+Disallow: */page/
+Disallow: *possible__unsafe__site*
+Disallow: *.html/
+Disallow: */ozhidaem-postupleniya-tovara/
+Disallow: */ozhidaem-postupleniya-tovara/*
+Allow: /wp-content/uploads/
+Allow: /wp-content/plugins/*/*?ver*
+Allow: /wp-includes/js/jquery/*?ver*
+Allow: /wp-content/themes/*?ver*
+
+# Запрещаем роботам Гугла посещать определенные страницы
+
+User-agent: Googlebot
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /search
+Disallow: /korzina
+Disallow: /checkout
+Disallow: *?s*
+Disallow: *?preview=true*
+Disallow: */feed
+Disallow: */attachment/*
+Disallow: */print/
+Disallow: *?print=*
+Disallow: */wp-json/*
+Disallow: */wp-json
+Disallow: */ozhidaem-postupleniya-tovara/
+Disallow: */ozhidaem-postupleniya-tovara/*
+
+Allow: /wp-content/uploads/
+Allow: /wp-includes/js/*
+
+# Запрещаем роботам Маила посещать определенные страницы
+
+User-agent: Mail.Ru
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /korzina
+Disallow: /checkout
+Disallow: /search
+Disallow: *?*
+Disallow: */tag/*
+Disallow: */attachment/*
+Disallow: */print/
+Disallow: */page/
+Disallow: *possible__unsafe__site*
+Disallow: *.html/
+Disallow: */ozhidaem-postupleniya-tovara/
+Disallow: */ozhidaem-postupleniya-tovara/*
+Allow: /wp-content/uploads/
+
+# Наша карта сайта
+
+Sitemap: https://inter-present.kz/sitemap_index.xml
+
+# Наше основное зеркало сайта
+
+Host: https://inter-present.kz

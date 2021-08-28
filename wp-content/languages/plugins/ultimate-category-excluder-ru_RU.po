@@ -1,0 +1,48 @@
+# Translation of Plugins - Ultimate Category Excluder - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Ultimate Category Excluder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-10 22:22:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ultimate Category Excluder - Development (trunk)\n"
+
+#: ultimate-category-excluder.php:85
+msgid "Update"
+msgstr "Обновить"
+
+#: ultimate-category-excluder.php:59
+msgid "Category"
+msgstr "Рубрика"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Category Excluder"
+msgstr "Ultimate Category Excluder"
+
+#: ultimate-category-excluder.php:63
+msgid "Exclude from Search?"
+msgstr "Исключить из поиска?"
+
+#: ultimate-category-excluder.php:61
+msgid "Exclude from Feeds?"
+msgstr "Исключить из лент?"
+
+#: ultimate-category-excluder.php:118
+msgid "Excludes successfully updated"
+msgstr "Исключения успешно обновлены"
+
+#: ultimate-category-excluder.php:40 ultimate-category-excluder.php:51
+msgid "Ultimate Category Excluder Options"
+msgstr "Настройки Ultimate Category Excluder"
+
+#: ultimate-category-excluder.php:53
+msgid "Use this page to select the categories you wish to exclude and where you would like to exclude them from."
+msgstr "Выберите какие рубрики и откуда вы хотите исключить."
+
+#. Description of the plugin
+msgid "Easily exclude categories from your front page, feeds, archives, and search results."
+msgstr "Простой способ исключить рубрики из главной станицы, лент, архивов и результатов поиска."

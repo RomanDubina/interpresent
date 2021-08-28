@@ -1,0 +1,170 @@
+# Copyright (C) 2021 redirect-404-error-page-to-homepage-or-custom-page
+# This file is distributed under the same license as the redirect-404-error-page-to-homepage-or-custom-page package.
+msgid ""
+msgstr ""
+"Project-Id-Version: redirect-404-error-page-to-homepage-or-custom-page\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/redirect-404-error-page-to-homepage-or-custom-page.php:91
+msgid "Cannot execute as the plugin already exists, if you have a free version installed deactivate that and try again"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:84
+msgid "Are you sure want to do this?"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:195
+msgid "Save Options"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:224
+msgid "Save"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:240
+msgid "Settings reset to defaults."
+msgstr ""
+
+#: src/admin/class-admin-settings.php:37
+msgid "Redirect 404"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:104
+msgid "Information"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:112
+msgid "Redirect Settings"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:120
+msgid "404 Log Settings"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:135
+msgid "Welcome"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:139
+msgid "This plugin can be configured to redirect missing pages (404) to either the home page or a custom page as required"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:142
+msgid "This is very useful if your site has been undergoing changes and Google still have pages that have gone in the index, this way you visitors will not get the standard 404 page, and educate Google that the missing pages are now the home page or custom page as required."
+msgstr ""
+
+#: src/admin/class-admin-settings.php:145
+msgid "Or, if you have an ugly 404 page, you can now add a page as a custom error page and set the return code to 404 instead."
+msgstr ""
+
+#: src/admin/class-admin-settings.php:149
+msgid "If you turn on logging below - your 404 logs are %shere%s"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:155
+msgid "Support"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:158
+msgid "WordPress.org support forum"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:171
+msgid "Cant set home page to return a 404 code that would be a bad idea"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:200
+msgid "Redirect to"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:210
+msgid " Page"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:214
+msgid "Redirect Type"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:224
+msgid "Only use 404 if you have written a custom page specifically for 404s. If you need more info on 301 vs 302 redirect, read the %s SEO blog %s article."
+msgstr ""
+
+#: src/admin/class-admin-settings.php:246
+msgid "Log"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:254
+msgid "Enable logging of 404 errors"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:259
+msgid "Do not redirect"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:268
+msgid "Tick this if you want the plugin redirect settings to be IGNORED, any only log 404s"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:273
+msgid "Log history"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:283
+msgid "Days"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:285
+msgid "Select the number of days to keep 404 log history"
+msgstr ""
+
+#: src/admin/class-admin-table-404-log.php:17
+msgid "404 Log"
+msgstr ""
+
+#: src/admin/class-admin-table-404-log.php:34, src/admin/class-list-table-404-log.php:22
+msgid "404 Log Entries"
+msgstr ""
+
+#: src/admin/class-admin.php:62
+msgid "%sPermalinks%s have to be enabled in order for the redirect to work. ( Redirect 404 Error Page to Homepage or Custom Page Plugin )"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:21
+msgid "404 Log Entry"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:29
+msgid "No current 404 log entries"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:40
+msgid "Delete"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:80
+msgid "URL that returned 404"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:82
+msgid "Referring URL if known"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:83
+msgid "Date/Time"
+msgstr ""
+
+#: src/admin/class-list-table-404-log.php:205, src/admin/class-list-table-404-log.php:202
+msgid "Direct attempt on php code"
+msgstr ""
+
+#: src/includes/autoloader.php:61
+msgid "The system file attempting to be loaded at %1$s does not exist."
+msgstr ""

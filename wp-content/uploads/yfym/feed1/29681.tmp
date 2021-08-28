@@ -1,0 +1,13 @@
+<offer  id="29681" available="true" >
+<name>Статуэтка «Ангел на колонне»</name>
+<picture>http://inter-present-dev/wp-content/uploads/2021/07/31946.jpg</picture>
+<url>http://inter-present-dev/product/statujetka-angel-na-kolonne/</url>
+<price from='true'>3990</price>
+<currencyId>KZT</currencyId>
+<vendorCode>31946</vendorCode>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>198</categoryId>
+<vat>NO_VAT</vat>
+</offer>

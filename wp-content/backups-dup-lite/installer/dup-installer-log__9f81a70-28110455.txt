@@ -1,0 +1,1215 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 11:28:59
+* VERSION: 1.4.2
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.29                                |7.1.33
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2021-08-28 11:04:55
+WP VERSION__________: 5.7.2
+DUP VERSION_________: 1.4.2
+DB__________________: 10.4.19
+DB TABLES___________: 72
+DB ROWS_____________: 399,641
+DB FILE SIZE________: 152.83MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.1.33 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "W:/domains/inter-present-dev"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://inter-present-dev/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "W:/domains/inter-present-dev/20210826_internetmagazinoriginalnyhpo_[HASH]_20210828110455_archive.zip"
+SIZE________________: 145.48MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "W:/domains/inter-present-dev/20210826_internetmagazinoriginalnyhpo_[HASH]_20210828110455_archive.zip"
+SIZE________________: 145.48MBFile timestamp set to Current: 2021-08-28 11:30:41
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 11:30:41 - RUNTIME: 102.0184 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 11:37:46
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.5.11 -- Build Server: 10.4.19
+FILE SIZE:	dup-database__[HASH].sql (88.03MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[W:/domains/inter-present-dev/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	416492
+
+wp_actionscheduler_actions: (16)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (4)
+wp_actionscheduler_logs: (48)
+wp_blc_filters: (0)
+wp_blc_instances: (985)
+wp_blc_links: (395)
+wp_blc_synch: (115)
+wp_coderun_oneclickwoo_orders: (0)
+wp_commentmeta: (1617)
+wp_comments: (626)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_mgmlp_folders: (11000)
+wp_options: (651)
+wp_pmxe_exports: (1)
+wp_pmxe_google_cats: (5371)
+wp_pmxe_posts: (7153)
+wp_pmxe_templates: (0)
+wp_pmxi_files: (17)
+wp_pmxi_hash: (18876)
+wp_pmxi_history: (21)
+wp_pmxi_images: (10923)
+wp_pmxi_imports: (17)
+wp_pmxi_posts: (14539)
+wp_pmxi_templates: (4)
+wp_postmeta: (238013)
+wp_posts: (19155)
+wp_shortpixel_folders: (0)
+wp_shortpixel_meta: (0)
+wp_strong_views: (1)
+wp_term_relationships: (18386)
+wp_term_taxonomy: (235)
+wp_termmeta: (869)
+wp_terms: (235)
+wp_usermeta: (172)
+wp_users: (2)
+wp_wc_admin_note_actions: (58)
+wp_wc_admin_notes: (54)
+wp_wc_category_lookup: (344)
+wp_wc_customer_lookup: (72)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (13)
+wp_wc_order_product_lookup: (740)
+wp_wc_order_stats: (91)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (7851)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_wcpdf_invoice_number: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (7167)
+wp_woocommerce_order_items: (831)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1061)
+wp_woocommerce_shipping_zone_locations: (1)
+wp_woocommerce_shipping_zone_methods: (3)
+wp_woocommerce_shipping_zones: (2)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_wpmelon_advbedit_temp: (7147)
+wp_wpmm_subscribers: (0)
+wp_yoast_indexable: (17994)
+wp_yoast_indexable_hierarchy: (12997)
+wp_yoast_migrations: (21)
+wp_yoast_primary_term: (414)
+wp_yoast_seo_links: (1695)
+Removed '8412' cache/transient rows
+
+INSERT DATA RUNTIME: 54.6576 sec.
+STEP-2 COMPLETE @ 11:38:41 - RUNTIME: 54.7662 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 11:40:01
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Интернет-магазин оригинальных подарков и сувениров «ИНТЕРPRESENT»"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/vhosts/inter-present.kz/httpdocs"
+path_new______________: "W:/domains/inter-present-dev"
+siteurl_______________: "http://inter-present-dev"
+url_old_______________: "https://inter-present.kz"
+url_new_______________: "http://inter-present-dev"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: "ingylets@gmail.com"
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:    48][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_blc_filters"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_blc_instances"________________________________[ROWS:   985][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_blc_links"____________________________________[ROWS:   395][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_blc_synch"____________________________________[ROWS:   115][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_coderun_oneclickwoo_orders"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:  1617][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:   626][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mgmlp_folders"________________________________[ROWS: 11000][PG:   4][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   651][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxe_exports"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxe_google_cats"_____________________________[ROWS:  5371][PG:   2][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxe_posts"___________________________________[ROWS:  7153][PG:   3][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxe_templates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmxi_files"___________________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_hash"____________________________________[ROWS: 18876][PG:   6][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_history"_________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_images"__________________________________[ROWS: 10923][PG:   4][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_imports"_________________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_posts"___________________________________[ROWS: 14539][PG:   5][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_pmxi_templates"_______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:238013][PG:  69][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS: 19155][PG:   6][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_shortpixel_folders"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_shortpixel_meta"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_strong_views"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS: 18386][PG:   6][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:   235][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:   869][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:   235][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   172][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    58][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    54][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:   344][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:    72][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:    13][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:   740][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:    91][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:  7851][PG:   3][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wcpdf_invoice_number"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:  7167][PG:   3][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:   831][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:  1061][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpmelon_advbedit_temp"________________________[ROWS:  7147][PG:   3][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_wpmm_subscribers"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS: 17994][PG:   6][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS: 12997][PG:   4][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:   414][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:  1695][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/inter-present.kz/httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  2:"\/var\/www\/vhosts\/inter-present.kz\/httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Finter-present.kz%2Fhttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  4:"\var\www\vhosts\inter-present.kz\httpdocs" =======> "W:/domains/inter-present-dev"
+	SEARCH  5:"\\var\\www\\vhosts\\inter-present.kz\\httpdocs" ==> "W:\/domains\/inter-present-dev"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Cinter-present.kz%5Chttpdocs" => "W%3A%2Fdomains%2Finter-present-dev"
+	SEARCH  7:"//inter-present.kz" ==============================> "//inter-present-dev"
+	SEARCH  8:"\/\/inter-present.kz" ============================> "\/\/inter-present-dev"
+	SEARCH  9:"%2F%2Finter-present.kz" ==========================> "%2F%2Finter-present-dev"
+	SEARCH 10:"//www.inter-present.kz" ==========================> "//inter-present-dev"
+	SEARCH 11:"\/\/www.inter-present.kz" ========================> "\/\/inter-present-dev"
+	SEARCH 12:"%2F%2Fwww.inter-present.kz" ======================> "%2F%2Finter-present-dev"
+	SEARCH 13:"https://inter-present-dev" =======================> "http://inter-present-dev"
+	SEARCH 14:"https:\/\/inter-present-dev" =====================> "http:\/\/inter-present-dev"
+	SEARCH 15:"https%3A%2F%2Finter-present-dev" =================> "http%3A%2F%2Finter-present-dev"
+--------------------------------------
+SCANNED:	Tables:72 	|	 Rows:408005 	|	 Cells:2935830 
+UPDATED:	Tables:18 	|	 Rows:50413 	|	 Cells:88089 
+ERRORS:		0 
+RUNTIME:	25.344800 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+- New username 'develop' was created successfully allong with MU usermeta.
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 11:40:26 - RUNTIME: 25.6023 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
